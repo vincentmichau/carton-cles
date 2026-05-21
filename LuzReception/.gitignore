@@ -1,0 +1,42 @@
+# Binaries
+Bin/
+bin/
+obj/
+*.exe
+*.dll
+
+# Build
+*.pdb
+*.ilk
+*.bak
+~*
+
+# IDE
+.vs/
+.vscode/
+*.suo
+*.user
+*.sln.docstates
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Temp files
+*.tmp
+*.log
+Thumbs.db
+
+# OS
+.DS_Store
+._*
+
+# NPM (if any)
+node_modules/
+package-lock.json
+
+# Zip/Archive
+*.zip
+*.7z
+*.rar
